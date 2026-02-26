@@ -1,0 +1,18 @@
+STRATIX SDK
+===========
+Copyright 2026 Intelligent Consulting BV
+Author: Suzanne Natalie Button, Director, Intelligent Consulting BV
+Address: Brussels, Belgium
+Contact: director@intelligentconsulting.eu
+First published: 26 February 2026
+
+STRATIX (Security Telemetry, Risk Attribution & Threat Intelligence eXchange)
+is an original framework authored by Suzanne Natalie Button.
+
+The STRATIX name, framework specification, schema design, governance model,
+and certification programme are the exclusive intellectual property of
+Intelligent Consulting BV and are protected under:
+  - EU Directive 2019/790/EU on Copyright in the Digital Single Market
+  - The Berne Convention for the Protection of Literary and Artistic Works
+
+The software implementation in this repository is licensed under Apache 2.0.
